@@ -28,6 +28,9 @@ Steps:
 # how To Run
 1. Run Test Suite - Go to testng.xml file > Right Click on the testng.xml file >  Run as TestNG Suite.
 2. Run Test Case - go to /src/JobAdderTestCases > Right click on any TestCase > Run as TestNG Test.
-3. For API Testing - Download the JobAdderAPIAssignment folder unzip it and then import the .json file(WeatherApiData-Assignment.postman_collection) to postman.
+
+
+# API Testing
+Download the JobAdderAPIAssignment folder unzip it and then import the .json file(WeatherApiData-Assignment.postman_collection) to postman.
 
 
