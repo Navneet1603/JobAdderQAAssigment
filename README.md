@@ -13,7 +13,7 @@
 
 # How to download:
 Steps: 
-1. Download the zip or clone the Git repository.
+1. Download the JobAdderQAAssignment.zip folder or clone the Git repository.
 2. Unzip the zip file (if you downloaded one).
 3. Open Eclipse
 4. File -> Import the Project > Select the right project (JobAdderQAAssignment)
