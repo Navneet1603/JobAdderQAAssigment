@@ -21,7 +21,7 @@ Steps:
 # Folder Structure 
 1. Test Cases  /src/JobAdderTestCases
 2. Test Data - /src/TestData
-3. Excel Util - /src/TestData
+3. Excel Util - /src/com.excel.utility
 4. Reports - /test-output
 
 # how To Run
