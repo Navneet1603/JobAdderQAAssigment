@@ -23,6 +23,7 @@ Steps:
 2. Test Data - /src/TestData
 3. Excel Util - /src/com.excel.utility
 4. Reports - /test-output
+5. config.properties
 
 # how To Run
 1. Run Test Suite - Go to testng.xml file > Right Click on the testng.xml file >  Run as TestNG Suite.
