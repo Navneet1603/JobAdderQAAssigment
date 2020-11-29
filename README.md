@@ -3,6 +3,7 @@ UI Automation
 Prerequisite 
 1. Java 
 2. Eclipse
+3. TestNG
 
 Framework Info: 
 1. Programming language - Java
